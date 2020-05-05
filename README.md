@@ -1,5 +1,6 @@
 # Nanocrystals
 Monte-carlo simulation of ion swapping/intercalation in nanocrystals
+for questions, contact johndcavin@gmail.com
 
 nanocrystal_simulation_05_04_20.m is the code that runs the simulations
 
